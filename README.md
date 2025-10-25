@@ -6,6 +6,17 @@ Eu sou <strong>Iasmin</strong>, <strong>futura desenvolvedora full stack!</stron
 - 💬 Pergunte-me sobre: <strong>Estudar lógica de programação com Java, ballet, fotografia, series turcas</strong>
 - 📣 Nós podemos falar em: <strong>Portugues-BR, English, Español, Türkçe</strong>
 
+### Hi there 👋
+* 👂 My name is Iasmin
+* 🔭 I’m currently working on Java, ...
+* 🌱 I’m currently learning Java, ...
+* 🤝 I’m looking to collaborate on Java
+* 🤔 I’m looking for help with Java
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* ❤️ I love learning programming logic with java, classical ballet, turkish romance shows
+* ⚡ Fun fact: ...
+
 <div align="center">
 
   <a href="#" alt="Gmail">
