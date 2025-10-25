@@ -4,7 +4,7 @@ Eu sou <strong>Iasmin</strong>, <strong>futura desenvolvedora full stack!</stron
 
 - 🚀 Atualmente estou aprendendo: <strong>Java, Python, Git</strong> 
 - 💬 Pergunte-me sobre: <strong>Estudar lógica de programação com Java, ballet, series turcas...</strong>
-- 📣 Nós podemos falar em: <strong>Portugues-BR, English, Espanhol, Türkçe</strong>
+- 📣 Nós podemos falar em: <strong>Portugues-BR, English, Español, Türkçe</strong>
 
 <div align="center">
 
