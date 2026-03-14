@@ -1,6 +1,7 @@
 # Iasmin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 Eu sou <strong>Iasmin</strong>, <strong>futura desenvolvedora full stack!</strong> 👨🏻‍💻 
+</br>
 ⚡️ Java/Python developer 🔥 focused on new and scalable technologies, i am a developer who loves sharing knowledge... take a look on my blog: 
 
 - 🚀 Atualmente estou aprendendo: <strong>Java, Python, Git</strong> 
