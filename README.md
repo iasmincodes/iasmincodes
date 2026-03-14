@@ -2,7 +2,8 @@
 
 Eu sou <strong>Iasmin</strong>, <strong>futura desenvolvedora full stack!</strong> 👨🏻‍💻 
 </br>
-⚡️ Java/Python developer 🔥 focused on new and scalable technologies, i am a developer who loves sharing knowledge... take a look on my blog: 
+⚡️ Java/Python developer 
+🔥 focused on new and scalable technologies, i am a developer who loves sharing knowledge... take a look on my blog: 
 
 - 🚀 Atualmente estou aprendendo: <strong>Java, Python, Git</strong> 
 - 💬 Pergunte-me sobre: <strong>Estudar lógica de programação com Java, ballet, fotografia, series turcas</strong>
