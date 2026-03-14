@@ -1,6 +1,6 @@
 # Ia.smin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Iasmin</strong>, <strong>futura desenvolvedora full stack!</strong> 👨🏻‍💻 
+Eu sou <strong>Iasmin</strong>, <strong>futura desenvolvedora full stack!</strong> 👨🏻‍💻 Esta conta é usada para anotar e carregar repositórios de aulas práticas.
 </br>
 ⚡️ Java/Python developer 
 </br>
